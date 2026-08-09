@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: nizkiy-porog-vhoda.github.io
+Sitemap: https://nizkiy-porog-vhoda.github.io/sitemap.xml
